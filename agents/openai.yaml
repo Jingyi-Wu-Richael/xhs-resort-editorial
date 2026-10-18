@@ -1,0 +1,9 @@
+interface:
+  display_name: "小红书度假杂志视觉"
+  short_description: "复刻阳光度假、奢品静物、编辑式拼贴与品牌化的小红书视觉"
+  brand_color: "#B44C43"
+  default_prompt: "使用 $xhs-resort-editorial 为我的产品设计一组 3:4 小红书视觉，并先输出封面方案。"
+
+policy:
+  allow_implicit_invocation: true
+
